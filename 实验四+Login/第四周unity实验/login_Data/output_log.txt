@@ -1,0 +1,41 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\162052117崔丽英2019-上\162052117--崔丽英--实验\实验四+Login\第四周unity实验\login_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.925300 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 484 -> priority: 1 
+点击了登录按钮
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+点击了登录按钮
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.834700 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.174900 ms (FindLiveObjects: 0.016600 ms CreateObjectMapping: 0.011000 ms MarkObjects: 0.136900 ms  DeleteObjects: 0.009900 ms)
+
